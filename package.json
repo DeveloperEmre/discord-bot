@@ -1,0 +1,35 @@
+{
+  "name": "space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "spacebot",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.18",
+    "common-tags": "^1.8.0",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "engine": "^1.0.0",
+    "express": "^4.16.4",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "gitinfo": "^2.2.0",
+    "install": "^0.12.2",
+    "js": "^0.1.0",
+    "math-expression-evaluator": "^1.2.17",
+    "moment-duration-format": "^2.2.2",
+    "opus": "0.0.0",
+    "opusscript": "0.0.6",
+    "prototype": "0.0.5",
+    "request-promise-native": "^1.0.7",
+    "simple-youtube-api": "^5.1.1",
+    "steam-provider": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "youtube": "^0.1.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
